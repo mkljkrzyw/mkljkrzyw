@@ -27,12 +27,12 @@ Buduję rozwiązania, gdzie **AI spotyka się z biznesem**, żeby automatyzować
 * **Code Green** – Wtyczka do środowiska PyCharm wspierająca Green Coding. Narzędzie analizuje kod w czasie rzeczywistym i podpowiada, jak go zoptymalizować, by zużywał mniej zasobów (CPU/RAM), co bezpośrednio przekłada się na mniejszy ślad węglowy i niższe rachunki za chmurę. Wykręcone podczas BHL2025.
 <!--* * **[Nazwa drugiego projektu]** – Rozwiązanie problemu [Jaki problem?], stworzone w Pythonie.
 
-
+-->
 ---
 
 ## 📊 Statystyki
 ![Statystyki](https://github-readme-stats.vercel.app/api?username=mkljkrzyw&show_icons=true&theme=dark&count_private=true)
--->
+
 ---
 
 ## 📫 Kontakt
